@@ -1,0 +1,5 @@
+{
+  "name": "FastFeast",
+  "description": "A modern and responsive food delivery platform for quick and delicious meals.",
+  "requestFramePermissions": ["geolocation"]
+}
